@@ -47,3 +47,9 @@ gcc -shared PwnKit.c -o PwnKit -Wl,-e,entry -fPIC
 - https://blog.qualys.com/vulnerabilities-threat-research/2022/01/25/pwnkit-local-privilege-escalation-vulnerability-discovered-in-polkits-pkexec-cve-2021-4034
 
 - https://github.com/arthepsy/CVE-2021-4034/
+
+## Fale comigo em :
+<p align="left">
+  <a href="https://github.com/Nosferatuvjr" target="_blank"><img src="https://img.shields.io/badge/Github-Nosferatuvjr-green?style=for-the-badge&logo=github"></a>
+  <a href="https://www.instagram.com/vivald0x6f" target="_blank"><img src="https://img.shields.io/badge/IG-%40vivald0x6f-red?style=for-the-badge&logo=instagram"></a>
+</p>
