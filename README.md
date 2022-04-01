@@ -22,6 +22,16 @@ $ ./PwnKit.sh
 # id
 ```
 
+Ou
+
+```bash
+$ git clone https://github.com/Nosferatuvjr/PwnKit
+$ cd PwnKit
+$ chmod +x ./PwnKit
+$ ./PwnKit
+$ ./PwnKit id #shell interativa
+```
+
 ### Showcase
 
 ![](./imgs/pwnkitpoc.png)
